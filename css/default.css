@@ -1,0 +1,47 @@
+@charset "UTF-8"; 
+h1{
+    font-size: 1.75em;
+    color: #3399cc;
+}
+h2{
+    font-size: 1.25em;
+    color: #3399cc;
+}
+p{
+    font-size: 0.8em;
+    color: #333333;
+}
+li{
+    font-size: 0.8em;
+    color: #333333;
+}
+h1 span{
+    color: #d0e35b;
+}
+h1 a{
+    color: #d0e35b;
+}
+#lead{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+. greeting{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+p. greeting{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+.cat{
+    font-size: 70%;
+}
+.male{
+    color:#2393a7
+}
+.female{
+    color:#df972f;
+}
